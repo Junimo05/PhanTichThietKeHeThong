@@ -1,0 +1,11 @@
+Đề tài: Website quản lý mua bán máy tính
+Nhóm 1 - 66PM6: 
+	1. Nguyễn Anh Tuấn - 0207766
+	2. Nguyễn Quang An - 0178166
+	3. Lê Đức Long - 0194566
+	4. Đỗ Phúc Đạt - 4002366
+	5. Vũ Văn Hiếu - 0190466
+
+Danh Sách User - Password: 
+	VuHieu1 - 123456 : Admin/User
+	
